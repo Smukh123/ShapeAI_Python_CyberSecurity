@@ -1,0 +1,6 @@
+Weather Stats for - ASANSOL  || 22 Jun 2021 | 11:34:03 AM
+-------------------------------------------------------------
+Current temperature is: 29.83 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 64 %
+Current wind speed    : 0.89kmph
